@@ -1,5 +1,5 @@
 # Sentiment Analysis of Social Media Posts Project
-- This project demonstrates a sentiment analysis pipeline using machine learning techniques. It involves preprocessing text data, training classifiers, and evaluating model performance. The models used include Support Vector Classifier (SVC) and Random Forest Classifier.
+- This project focuses on building a sentiment analysis tool that categorizes text data into positive, negative, or neutral sentiments. The project leverages machine learning techniques, specifically Support Vector Machine (SVM) and Random Forest Classifiers, to classify the sentiments of social media posts.
 
 ## Project Structure
 - sentiment_analysis.py: Main script for loading data, training models, evaluating performance, and making predictions.
